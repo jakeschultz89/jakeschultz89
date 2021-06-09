@@ -1,32 +1,31 @@
-<h2> Hi, I'm E Jacob Schultz, but call me Jake! 👾</h2>
+<h2> Hi, I'm E. Jacob Schultz, but call me Jake! 🕹</h2>
 
 <p><em>Software Engineer 💻</em></p> 
-<p><em>Fiber Artist Enthusiast 🦙</em></p> 
-<p><em>React Whiz ⚛️</em></p> 
+<p><em>React Fan ⚛️</em></p> 
 
 [![Linkedin: ejacobschultz](https://img.shields.io/badge/-ejacobschultz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ejacobschultz/)](https://www.linkedin.com/in/ejacobschultz/)
 [![GitHub jakeschultz89](https://img.shields.io/github/followers/jakeschultz89?label=follow&style=social)](https://github.com/jakeschultz89)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://nicolehamilton.me/)](www.ejacobschultz.com)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.ejacobschultz.com/)](www.ejacobschultz.com)
 
-### A little about me...  
+### A little about me -  
 
 ```javascript
 const jake = {
-  code: [Javascript, HTML, CSS, C#, Python],
-  tools: [React, Node, Socket.io, Discordjs],
+  code: [Javascript, HTML, CSS],
+  tools: [React, Node],
   tech: {
-        frontEnd: ["ReactJS", "Bootstrap", "Materialize"], 
-        backEnd: ["Django", "Flask", "NodeJS"],
+        frontEnd: ["ReactJS", "Bootstrap"], 
+        backEnd: ["Django", "NodeJS"],
         databases: ["PostgreSQL", "MongoDB"]
         }
-   learning: ["C#", "React Native"]
+   learning: ["Python"]
 }
 
 currentProject = () => ({
-  axios("PeriodTracker.app")
+  axios("SpaceX-API-Clone.app")
   .then(progress) {
       progress.task = "Fullstack Developer"
-      progress.techUsed = ["React Native", "Django"]
+      progress.techUsed = ["React"]
   }
   .catch((err) => {
       throw err;
@@ -43,7 +42,5 @@ currentProject = () => ({
 <a href="https://github.com/jakeschultz89/jakeschultz89">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jakeschultz89&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Jake's GitHub Stats" />
 </a>
-
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
