@@ -5,9 +5,8 @@
 
 [![Linkedin: ejacobschultz](https://img.shields.io/badge/-ejacobschultz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ejacobschultz/)](https://www.linkedin.com/in/ejacobschultz/)
 [![GitHub jakeschultz89](https://img.shields.io/github/followers/jakeschultz89?label=follow&style=social)](https://github.com/jakeschultz89)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.ejacobschultz.com/)](www.ejacobschultz.com)
 
-### A little about me -  
+### A little about me:  
 
 ```javascript
 const jake = {
