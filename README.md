@@ -1,16 +1,29 @@
-### Hi there 👋
+Hi, I'm E Jacob Schultz, but call me Jake! 👾
+Software Engineer 💻
 
-<!--
-**jakeschultz89/jakeschultz89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+React Whiz ⚛️
 
-Here are some ideas to get you started:
+Linkedin: ejacobschultz GitHub jakeschultz89 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A little about me...
+const jake = {
+  code: [Javascript, HTML, CSS, C#, Python],
+  tools: [React, Node],
+  tech: {
+        frontEnd: ["ReactJS", "Bootstrap"], 
+        backEnd: ["Django", "NodeJS"],
+        databases: ["PostgreSQL", "MongoDB"]
+        }
+   learning: ["C#", "React Native"]
+}
+
+currentProject = () => ({
+  axios("PeriodTracker.app")
+  .then(progress) {
+      progress.task = "Fullstack Developer"
+      progress.techUsed = ["React Native", "Django"]
+  }
+  .catch((err) => {
+      throw err;
+  })
+})
