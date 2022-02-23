@@ -21,10 +21,10 @@ const jake = {
 }
 
 currentProject = () => ({
-  axios("SpaceX-API-Clone.app")
+  axios("Semper-Skate-Game.app")
   .then(progress) {
       progress.task = "Fullstack Developer"
-      progress.techUsed = ["React"]
+      progress.techUsed = ["Pygame"]
   }
   .catch((err) => {
       throw err;
