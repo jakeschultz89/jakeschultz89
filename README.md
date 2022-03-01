@@ -1,4 +1,4 @@
-<h2> Hi, I'm E. Jacob Schultz, but call me Jake! 🕹</h2>
+<h2> Hi, I'm E. Jacob Schultz, but call me Jake</h2>
 
 <p><em>Software Engineer 💻</em></p> 
 <p><em>React Fan ⚛️</em></p> 
